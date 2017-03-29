@@ -1,0 +1,13 @@
+
+public class Chapter1 implements Chapter
+{
+	public void run()
+	{
+		
+	}
+	
+	public boolean isUnique(String str1)
+	{
+		return true;
+	}
+}

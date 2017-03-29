@@ -1,0 +1,8 @@
+
+public class Chapter1 implements Chapter
+{
+	public void run()
+	{
+		
+	}
+}

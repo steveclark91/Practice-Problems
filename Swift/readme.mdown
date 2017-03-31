@@ -1,0 +1,3 @@
+# Cracking The Coding Interview - Swift
+
+My attempted solutions to Cracking The Coding Interview 6e by Gayle Laakmann McDowell in Swift version 3.  Developing iOS applications is something I want to get back in to so I wanted to throughly learn Swift so that when I do find the time I'll already have the syntax under my belt. 
